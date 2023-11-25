@@ -1,3 +1,3 @@
-# Codsoft Internship tasks
+# Codsoft Internship Tasks
 
  Data Science Projects
